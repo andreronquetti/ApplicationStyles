@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test Application Styles</string>
+    <string name="textOne">Esse é o texto número um</string>
+    <string name="textTwo">Esse é o texto número dois</string>
+</resources>

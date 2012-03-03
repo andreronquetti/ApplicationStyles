@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Orientation">
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="TextWidth" parent="TextStyle">
+        <item name="android:layout_width">@dimen/zero</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+</resources>
